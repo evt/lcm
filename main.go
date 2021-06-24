@@ -61,6 +61,6 @@ func main() {
 }
 
 func run() error {
-	fmt.Printf("Please run `make test` instead ;)")
+	fmt.Printf("Please run `make test` instead ;)\n")
 	return nil
 }
